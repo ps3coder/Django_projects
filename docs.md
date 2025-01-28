@@ -243,3 +243,5 @@ template filters --> used to modify the data.
 20. Git setup
 
 git commit - m "message" : to commit the changes
+
+20. whenever you create form with method = post is required cross site request forgery token.
